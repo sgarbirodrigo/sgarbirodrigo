@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sgarbirodrigo, currently employed and programming in the free time.
+- 👋 Hi, I’m @sgarbirodrigo, currently employed and code in the free time.
 - 👀 I’m looking for challenges that can increase my skill on any area.
-- 🌱 I’m currently learning AI, Dart, Javascript and git.
+- 🌱 I’m currently improoving my skills on Dart, Javascript and git. Most of the codes here are old projects that have been used to learn coding and im currently releasing these ideas as open-source.
 - 📫 Reach on sgarbi.rodrigo@gmail.com
 
 <!---
