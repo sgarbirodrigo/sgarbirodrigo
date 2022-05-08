@@ -21,8 +21,8 @@
 
 ### Skills on the horizon:
 
-[ ] Classification of audio with neural network;
-[ ] Git knowledge.
+[ ] Classification of audio with neural network; <br/>
+[ ] Git knowledge. <br/>
     
 <!---
 sgarbirodrigo/sgarbirodrigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
