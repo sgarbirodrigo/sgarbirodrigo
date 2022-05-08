@@ -19,10 +19,10 @@
    <li>Cron jobs.</li>
 </ul>
 
-### Skills on the horizon:
-[ ] Frontend web development;<br/>
-[ ] Classification of audio with neural network; and<br/>
-[ ] Git knowledge. <br/>
+### :hammer: Skills under development:
+- Frontend web development;<br/>
+- Classification of audio with neural network; and<br/>
+- Git knowledge. <br/>
     
 <!---
 sgarbirodrigo/sgarbirodrigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
