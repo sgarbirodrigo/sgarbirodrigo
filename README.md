@@ -10,18 +10,18 @@
 </ul>
 <ul>:arrow_forward: <b>Time Track Integration:</b>
    <li>Background work on mobile;</li>
-   <li>Integration with toggl API;</li>
+   <li>Integration with toggl API; and</li>
    <li>Integration with Jira API.</li>
     </ul>
 <ul>:arrow_forward: <b>Bitcoin - Cost Average:</b>
    <li>Background work on firebase functionalities;</li>
-   <li>Integration cryptocurrencie's exchanges;</li>
+   <li>Integration cryptocurrencie's exchanges; and</li>
    <li>Cron jobs.</li>
 </ul>
 
 ### Skills on the horizon:
 
-[ ] Classification of audio with neural network; <br/>
+[ ] Classification of audio with neural network; and<br/>
 [ ] Git knowledge. <br/>
     
 <!---
