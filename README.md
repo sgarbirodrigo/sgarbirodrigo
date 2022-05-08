@@ -4,22 +4,25 @@
 - 📫 Reach on sgarbi.rodrigo@gmail.com
 
 ### Skills learned by project:
-<ul>Overall Skills:
+<ul>:earth_americas: <b>Overall Skills</b>:
     <li>Scrum method to control development of projects; and</li>
     <li>Prototyping projects on Adobe XD UX/UI.</li>
 </ul>
-<ul>Time Track Integration:
+<ul>:arrow_forward:<b>Time Track Integration:</b>
    <li>Background work on mobile;</li>
    <li>Integration with toggl API;</li>
    <li>Integration with Jira API.</li>
     </ul>
-<ul>Bitcoin - Cost Average
+<ul>:arrow_forward:<b>Bitcoin - Cost Average:</b>
    <li>Background work on firebase functionalities;</li>
    <li>Integration cryptocurrencie's exchanges;</li>
    <li>Cron jobs.</li>
-    </ul>
+</ul>
 
 ### Skills on the horizon:
+
+[ ] Classification of audio with neural network;
+[ ] Git knowledge.
     
 <!---
 sgarbirodrigo/sgarbirodrigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
