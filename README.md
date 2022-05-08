@@ -20,7 +20,7 @@
 </ul>
 
 ### Skills on the horizon:
-
+[ ] Frontend web development;<br/>
 [ ] Classification of audio with neural network; and<br/>
 [ ] Git knowledge. <br/>
     
