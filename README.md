@@ -4,20 +4,23 @@
 - 📫 Reach on sgarbi.rodrigo@gmail.com
 
 ### Skills learned by project:
---> Overall Skills:
-    > Scrum method to control development of projects; and
-    > Prototyping projects on Adobe XD UX/UI.
-
---> Time Track Integration
+--> <ul>Overall Skills:
+    <li>> Scrum method to control development of projects; and</li>
+    <li>> Prototyping projects on Adobe XD UX/UI.</li>
+</ul>
+--> <ul>Time Track Integration:
     > Background work on mobile;
     > Integration with toggl API;
     > Integration with Jira API.
---> Bitcoin - Cost Average
+    </ul>
+--> <ul>Bitcoin - Cost Average
     > Background work on firebase functionalities;
     > Integration cryptocurrencie's exchanges;
     > Cron jobs.
+    </ul>
 
-### Skills on 
+### Skills on the horizon:
+    
 <!---
 sgarbirodrigo/sgarbirodrigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
