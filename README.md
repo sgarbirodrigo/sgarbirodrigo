@@ -8,12 +8,12 @@
     <li>Scrum method to control development of projects; and</li>
     <li>Prototyping projects on Adobe XD UX/UI.</li>
 </ul>
-<ul>:arrow_forward:<b>Time Track Integration:</b>
+<ul>:arrow_forward: <b>Time Track Integration:</b>
    <li>Background work on mobile;</li>
    <li>Integration with toggl API;</li>
    <li>Integration with Jira API.</li>
     </ul>
-<ul>:arrow_forward:<b>Bitcoin - Cost Average:</b>
+<ul>:arrow_forward: <b>Bitcoin - Cost Average:</b>
    <li>Background work on firebase functionalities;</li>
    <li>Integration cryptocurrencie's exchanges;</li>
    <li>Cron jobs.</li>
